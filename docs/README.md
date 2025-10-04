@@ -20,6 +20,7 @@ Além de programação tenho cursos como infórmatica basica e telemarketing/mar
 <br/>
 
 ### 📊 Estatísticas
-<img align="left" width="350" stye="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ClaraLagesC&show_icons=true&theme=radical&locale=pt-br"/>
-<img align="left" width="250" stye="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraLagesC&theme=radical&layout=compact&custom_title=Linguagens"/>
+<img align="left" width="400" stye="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ClaraLagesC&show_icons=true&theme=radical&locale=pt-br"/>
+<img align="left" width="300" stye="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraLagesC&theme=radical&layout=compact&custom_title=Linguagens"/>
+
 
